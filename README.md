@@ -29,8 +29,6 @@ This project is designed to detect pedestrians using **YOLOv8** in both images a
 - **[OpenCV](https://opencv.org/)** 📷
 - **[Torch](https://pytorch.org/)** 🔥
 - **[Streamlit](https://streamlit.io/)** 🌐
-- **[NumPy](https://numpy.org/)** 🔢
-- **[Matplotlib](https://matplotlib.org/)** 📊
 - **[Pillow](https://pillow.readthedocs.io/)** 🖼
 
 ---
