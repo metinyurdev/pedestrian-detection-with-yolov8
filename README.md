@@ -69,7 +69,7 @@ To launch the **Streamlit** web application:
 ```bash
 $ streamlit run app.py
 ```
-Then, open the provided **localhost** link in your browser and upload an image.
+
 
 [![Pedestrian Detection](project_photo/photo1.png)](project_photo/photo1.png)
 
