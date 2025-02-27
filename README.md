@@ -97,11 +97,11 @@ streamlit
 ---
 
 ## 🎯 Features
-✔️ **Real-time pedestrian detection** in images and videos.
-✔️ **Fast and efficient YOLOv8** inference.
-✔️ **Web interface** for image-based detection using Streamlit.
-✔️ **CUDA acceleration** for GPU users.
-✔️ **Simple and easy-to-use** interface.
+✔️ **Real-time pedestrian detection** in images and videos.   
+✔️ **Fast and efficient YOLOv8** inference.   
+✔️ **Web interface** for image-based detection using Streamlit.   
+✔️ **CUDA acceleration** for GPU users.   
+✔️ **Simple and easy-to-use** interface.   
 
 ---
 
